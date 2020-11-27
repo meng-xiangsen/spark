@@ -1,0 +1,8 @@
+# Project exclude paths
+/Hive-Functions/target/
+/kylin/target/
+/spark-core/target/
+/spark-sql/target/
+/sparkproject/target/
+/sql-guodai/target/
+/target/
